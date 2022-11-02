@@ -1,4 +1,0 @@
-Since there are many various commands you can use, mastering Git takes time. But some commands are used more frequently (some daily). So in this post, I will share and explain the 10 most used Git commands that every developer should know.
-
-1. Git clone
-Git clone is a command for downloading existing source code from a remote repository (like Github, for example). In other words, Git clone basically makes an identical copy of the latest version of a project in a repository and saves it to your computer.
